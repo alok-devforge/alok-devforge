@@ -3,16 +3,16 @@
   
   <p>Building solutions that bridge technology with real-world problems</p>
   
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/alok-kumar-34874a28a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:alok.csit@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://leetcode.com/u/alok_devforge/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://twitter.com/">
+  <a href="https://x.com/alok_devforge">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
