@@ -120,7 +120,7 @@ const alok = {
       <td width="50%" align="center">
         <h3><a href="https://github.com/alok-devforge/MediScan">MediScan</a></h3>
         <a href="https://github.com/alok-devforge/MediScan">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alok-devforge&repo=MediScan&theme=react&hide_border=true&title_color=0969DA" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alok-devforge&repo=MediScan&theme=react&hide_border=true&title_color=0969DB" />
         </a>
         <p>AI-powered bone fracture detection system achieving 99.8% accuracy through deep learning. Features real-time X-ray analysis, transparent Grad-CAM visualizations, and clinical integration tools.</p>
         <p>
