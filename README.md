@@ -179,6 +179,8 @@ const alok = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=react&hide_border=true&title_color=0969DA" />
 </div>
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alok-devforge&theme=react-dark&bg_color=000000&hide_border=true)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=alok-devforge&color=0969DA&style=flat-square" alt="Profile views" />
 </div>
