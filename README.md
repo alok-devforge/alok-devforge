@@ -68,7 +68,7 @@ const alok = {
           <h3>🔥</h3>
           <strong>Current Streak</strong>
           <br />
-          <h2>15 days</h2>
+          <h2>29 days</h2>
         </td>
         <td align="center">
           <h3>🏆</h3>
