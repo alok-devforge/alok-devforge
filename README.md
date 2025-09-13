@@ -95,7 +95,7 @@ Intelligent platform with dual ML models for real-time predictions and cross-pla
 ---
 
 ### Real-Time Location Tracking & Alert System
-**Individual Project | [GitHub](https://github.com/alok-devforge/realtime-location-tracking-and-alert-system)**
+**Individual Project | [GitHub](https://github.com/alok-devforge/realtime-time-location-tracking-and-alert-system)**
 
 Real-time GPS tracking platform with customizable alerts, geofencing, and scalable architecture.
 
