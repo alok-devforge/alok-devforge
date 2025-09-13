@@ -1,188 +1,195 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+I'm+Alok+Kumar;Software+Engineer;AI+%7C+Web+Dev+%7C+CP+%7C+WEB3" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Alok+Kumar;Software+Engineer+%26+AI+Developer;Building+Innovative+Solutions" alt="Typing SVG" />
+  </h1>
   
-  <p>Building solutions that bridge technology with real-world problems</p>
-  
-  <a href="https://www.linkedin.com/in/alok-kumar-34874a28a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alok.csit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/alok_devforge/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://x.com/alok_devforge">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</div>
-
-<hr/>
-
-## 💫 About Me
-
-```javascript
-const alok = {
-  location: "Kolkata, West Bengal, India",
-  interests: ["Competitive Programming", "DevOps", "Blockchain", "AI/ML", "Web Dev"],
-  currentlyLearning: "Problem solving, blockchain and web3 technologies",
-  askMeAbout: ["Tech", "AI", "Web Dev", "Blockchain"],
-  funFact: "I'm a great observer"
-};
-```
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-## 💻 LeetCode Stats
-
-<div align="center">
-  <h3>
-    <a href="https://leetcode.com/u/alok_devforge/">
-      <img src="https://img.shields.io/badge/My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
-    </a>
+  <h3 style="color: #0969DA; margin: 10px 0;">
+    🚀 Full-Stack Developer | AI/ML Engineer | Problem Solver 💡
   </h3>
   
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <h3>🧩</h3>
-          <strong>Problems Solved</strong>
-          <br />
-          <h2>200+</h2>
-        </td>
-        <td align="center">
-          <h3>🔥</h3>
-          <strong>Current Streak</strong>
-          <br />
-          <h2>29 days</h2>
-        </td>
-        <td align="center">
-          <h3>🏆</h3>
-          <strong>Ranking</strong>
-          <br />
-          <h2>Top 10%</h2>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <details>
-    <summary><b>📊 Problem Difficulty Breakdown</b></summary>
-    <br />
-    <table>
-      <tr>
-        <td align="center">
-          <h4 style="color: #00b8a3;">Easy</h4>
-          <div style="background-color: #00b8a3; width: 100px; height: 10px; border-radius: 5px; margin: auto;"></div>
-          <strong>100+</strong>
-        </td>
-        <td align="center">
-          <h4 style="color: #ffb800;">Medium</h4>
-          <div style="background-color: #ffb800; width: 100px; height: 10px; border-radius: 5px; margin: auto;"></div>
-          <strong>75+</strong>
-        </td>
-        <td align="center">
-          <h4 style="color: #ff2d55;">Hard</h4>
-          <div style="background-color: #ff2d55; width: 100px; height: 10px; border-radius: 5px; margin: auto;"></div>
-          <strong>25+</strong>
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <br />
-  <div align="center">
-    <p style="font-style: italic; font-size: 18px; color: #555; max-width: 700px; margin: 20px auto; padding: 15px; border-left: 4px solid #0969DA; background-color: #f8f9fa;">
-      "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
-    </p>
-  </div>
+  <p>
+    <a href="https://www.linkedin.com/in/alok-kumar-34874a28a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:alok.csit@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/alok_devforge/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+    <a href="https://alok-devforge.github.io/MediScan/">
+      <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://x.com/alok_devforge">
+      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-## 🚀 Featured Projects
+## 🚀 About Me
+
+Software Engineer specializing in AI/ML and Full-Stack Development. I enjoy building scalable products and solving real-world problems using innovative technology.
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/alok-devforge/MediScan">MediScan</a></h3>
-        <a href="https://github.com/alok-devforge/MediScan">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alok-devforge&repo=MediScan&theme=react&hide_border=true&title_color=0969DB" />
-        </a>
-        <p>AI-powered bone fracture detection system achieving 99.8% accuracy through deep learning. Features real-time X-ray analysis, transparent Grad-CAM visualizations, and clinical integration tools.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        </p>
+      <td align="center">
+        <h4>🤖 AI & Machine Learning</h4>
+        <p>Deep Learning, Computer Vision</p>
       </td>
-      <td width="50%" align="center">
-        <h3><a href="https://github.com/alok-devforge/Arduino-Based-ESP32-Car">Arduino-Based ESP32 Car</a></h3>
-        <a href="https://github.com/alok-devforge/Arduino-Based-ESP32-Car">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alok-devforge&repo=Arduino-Based-ESP32-Car&theme=react&hide_border=true&title_color=0969DA" />
-        </a>
-        <p>Arduino based car equipped with a live camera feed. Features remote control via web interface, adjustable speed, lighting control, pan & tilt camera, and WebSocket communication for real-time interactions.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
-          <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-          <img src="https://img.shields.io/badge/IoT-010101?style=flat-square&logo=iot&logoColor=white" />
-        </p>
+      <td align="center">
+        <h4>💻 Full-Stack Development</h4>
+        <p>React, FastAPI, scalable systems</p>
       </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" colspan="2">
-        <h3><a href="https://github.com/alok-devforge/PasswordGenerator">Password Generator</a></h3>
-        <a href="https://github.com/alok-devforge/PasswordGenerator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alok-devforge&repo=PasswordGenerator&theme=react&hide_border=true&title_color=0969DA" />
-        </a>
-        <p>Web application that generates strong, customizable passwords using HTML, CSS, and JavaScript. Includes options for length, character types, a strength indicator, and dark mode support.</p>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </p>
+      <td align="center">
+        <h4>🏆 Problem Solving</h4>
+        <p>Competitive Programming, DSA</p>
       </td>
     </tr>
   </table>
 </div>
 
-### 💡 Project Highlights
+```typescript
+const alok = {
+  location: "Kolkata, West Bengal, India",
+  role: "Software Engineer & AI Developer",
+  expertise: ["Python", "React", "TensorFlow", "FastAPI", "Computer Vision"],
+  currentFocus: ["MLOps", "System Design", "AI Applications"],
+  passion: "Building innovative solutions with cutting-edge technology"
+};
+```
 
-- **AI & Machine Learning**: Developed MediScan with deep learning models, achieving 99.8% accuracy in bone fracture detection
-- **IoT Development**: Built Arduino-ESP32 based remote-controlled car with real-time video streaming and WebSocket communication
-- **Web Development**: Created responsive web applications with modern JavaScript, HTML, and CSS featuring dark mode and interactive UIs
-- **Full Stack Solutions**: Implemented full-stack solutions combining Python/FastAPI backends with responsive frontends
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=react&hide_border=true&count_private=true&title_color=0969DA" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-devforge&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=react&hide_border=true&title_color=0969DA" />
+
+  ### Programming Languages
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+  ### AI/ML & Data Science
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+  ### Web Development & Frameworks
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ### Tools & Technologies
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alok-devforge&theme=react-dark&bg_color=000000&hide_border=true)
+## 🌟 Featured Projects
+
+### 🏥 [MediScan - AI Medical Imaging](https://github.com/alok-devforge/MediScan)
+**Team Project | Live Demo Available**
+
+Advanced deep learning application for automated medical diagnostics with explainable AI visualizations.
+
+**Key Features:**
+- High-performance ML model
+- Explainable AI (Grad-CAM)
+- Real-time processing
+- Full-stack web interface
+
+**Tech Stack:** `Python` `FastAPI` `TensorFlow` `Computer Vision` `Deep Learning` `HTML/CSS`
+
+---
+
+### 🤖 [MAITRI - AI Platform](https://github.com/TechFreak2003/MAITRI)
+**Team Project | Frontend + Backend Developer**
+
+Intelligent platform leveraging dual ML models for real-time predictions and risk analysis.
+
+**Key Features:**
+- Dual ML architecture
+- Cross-platform integration
+- Real-time data processing
+
+**Tech Stack:** `React` `FastAPI` `TensorFlow` `YOLO` `JWT Auth` `Python`
+
+---
+
+### 📍 [RealTime Location Tracking & Alert System](https://github.com/alok-devforge/realtime-location-tracking-and-alert-system)
+**Individual Project**
+
+A real-time location monitoring and alerting platform for enhanced safety and logistics management.
+
+**Key Features:**
+- Real-time GPS tracking and visualization
+- Customizable alert rules (geofencing, speed, etc.)
+- Scalable backend and responsive frontend
+
+**Tech Stack:** `Node.js` `React` `MongoDB` `Socket.IO` `Google Maps API`
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alok-devforge&color=0969DA&style=flat-square" alt="Profile views" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alok's%20GitHub%20Stats"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alok's%20GitHub%20Stats"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alok's%20GitHub%20Stats" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com/?user=alok-devforge&theme=radical&hide_border=true&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=alok-devforge&theme=default&hide_border=true&stroke=0969DA&ring=0969DA&fire=FF6B6B&currStreakLabel=0969DA"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com/?user=alok-devforge&theme=radical&hide_border=true&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=445"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=default&hide_border=true&langs_count=10&card_width=445"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=445" alt="Top Languages" />
+  </picture>
 </div>
 
-<!-- Last updated: 2025-04-28 16:51:27 -->
+## 🏆 Competitive Programming
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-200+-00b8a3?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Languages-C++,_Python,_Java-FFD700?style=for-the-badge&logo=code" />
+</div>
+
+Active in competitive programming with a focus on data structures and algorithms. Regular participant in online contests and continuous learner.
+
+---
+
+<div align="center">
+  <p><strong>Open to opportunities:</strong> Software Engineering • AI/ML Projects • Open Source Collaboration</p>
+  <a href="mailto:alok.csit@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Build_Something_Amazing-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=alok-devforge&color=FF6B6B&style=for-the-badge&label=Profile+Visitors" />
+  <p><strong>💫 "Code with passion, innovate with purpose" 💫</strong></p>
+</div>
