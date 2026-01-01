@@ -14,7 +14,7 @@
     <a href="https://leetcode.com/u/alok_devforge/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
-    <a href="https://alok-devforge.github.io/MediScan/">
+    <a href="https://alokdevforge.dev">
       <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://x.com/alok_devforge">
@@ -175,7 +175,7 @@ I am open to opportunities in **Software Engineering**, **AI/ML projects**, and 
 
 **📧 Email:** [alok.csit@gmail.com](mailto:alok.csit@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/alok-kumar-34874a28a](https://www.linkedin.com/in/alok-kumar-34874a28a/)  
-**🌐 Portfolio:** Coming Sooon!!
+**🌐 Portfolio:** [alokdevforge.dev](https://alokdevforge.dev)
 
 <br/>
 
