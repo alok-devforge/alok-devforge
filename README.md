@@ -183,4 +183,4 @@ I am open to opportunities in **Software Engineering**, **AI/ML projects**, and 
 
 **✨ "Code with passion, innovate with purpose" ✨**
 
-</div>
+</div> 
