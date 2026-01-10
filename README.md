@@ -112,10 +112,9 @@ Real-time GPS tracking platform with customizable alerts, geofencing, and scalab
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alok-devforge&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=alok-devforge&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alok-devforge&theme=react-dark&hide_border=true&area=true)
+
 </div>
 
 ## 🏆 Competitive Programming
