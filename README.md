@@ -112,39 +112,10 @@ Real-time GPS tracking platform with customizable alerts, geofencing, and scalab
 </div>
 
 <div align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alok's%20GitHub%20Stats"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alok's%20GitHub%20Stats"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=alok-devforge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Alok's%20GitHub%20Stats" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com/?user=alok-devforge&theme=radical&hide_border=true&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://streak-stats.demolab.com/?user=alok-devforge&theme=default&hide_border=true&stroke=0969DA&ring=0969DA&fire=FF6B6B&currStreakLabel=0969DA"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://streak-stats.demolab.com/?user=alok-devforge&theme=radical&hide_border=true&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" alt="GitHub Streak" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=445"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=default&hide_border=true&langs_count=10&card_width=445"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=445" alt="Top Languages" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alok-devforge&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=alok-devforge&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alok-devforge&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 🏆 Competitive Programming
