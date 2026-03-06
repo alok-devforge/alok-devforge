@@ -12,23 +12,6 @@ Pre-final year CS student focused on DSA (C++), full-stack development, and appl
 
 ---
 
-## Education
-
-**B.Tech CST** · IEM Kolkata · 2023–2027 · CGPA 8.81  
-**Class XII** · New Horizon School · 2022  
-**Class X** · St. Joseph School · 2020
-
----
-
-## Skills
-
-**Languages:** C++, Python, Java, C  
-**ML / Vision:** TensorFlow, YOLOv8, OpenCV, Scikit-learn, Grad-CAM  
-**Backend:** Node.js, Express, FastAPI, Socket.IO  
-**Tools:** Git, HTML/CSS
-
----
-
 ## Projects
 
 **[MediScan](https://github.com/alok-devforge/MediScan)** · Python · FastAPI · YOLOv8 · Grad-CAM  
@@ -52,11 +35,4 @@ Research project — stacking ensemble model with Grad-CAM interpretability. *(G
 - Finalist · StatusCode2 2025 — Top 100 / 1,400+ teams (IISER Kolkata)
 - Zonal Finalist · Anti-Piracy Challenge 2025 (WAVES, Govt. of India)
 - 1st Place · CreaXion Project Competition 2025
-
----
-
-## Certifications
-
-Applied Cryptography Specialization · Coursera (2025)  
-C++ Programming Professional Certificate · OpenEDG / C++ Institute (2025)
 
