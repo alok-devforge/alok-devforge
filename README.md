@@ -2,7 +2,7 @@
 
 B.Tech Computer Science · IEM Kolkata ('27)
 
-[LinkedIn](https://linkedin.com/in/alok-devforge) · [GitHub](https://github.com/alok-devforge) · [alok.kumar2023@iem.edu.in](mailto:alok.kumar2023@iem.edu.in)
+[LinkedIn](https://linkedin.com/in/alok-devforge) · [GitHub](https://github.com/alok-devforge) · [alok.kumar2023@iem.edu.in](mailto:alok.kumar2023@iem.edu.in) · [alokdevforge.dev](https://alokdevforge.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alok-devforge&style=flat-square&color=grey) [![LeetCode](https://img.shields.io/badge/LeetCode-alok__devforge-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/alok_devforge/)
 
