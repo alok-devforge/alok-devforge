@@ -1,6 +1,6 @@
 # Hey 👋, I'm Alok Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=8B949E&vCenter=true&repeat=true&width=435&height=25&lines=Full+Stack+%26+AI+Native+Developer" alt="tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=8B949E&vCenter=true&repeat=true&width=500&height=25&lines=SDE+Intern+%40+Nevaeh+Technology;Systems+%26+C%2B%2B+Developer;Full+Stack+%26+AI+Native+Developer" alt="tagline" />
 
 [![Portfolio](https://img.shields.io/badge/-alokdevforge.dev-000000?style=flat&logo=vercel&logoColor=white)](https://alokdevforge.dev)
 [![LinkedIn](https://img.shields.io/badge/-alok--devforge-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-devforge)
@@ -13,7 +13,15 @@ B.Tech CST · IEM Kolkata ('27) · CGPA 8.71
 
 ---
 
-Pre-final year CS student focused on DSA, full-stack development, and applied ML/Computer Vision. I build end-to-end systems — from real-time backends to AI-powered tools — with a strong record in competitive hackathons and ongoing research in medical image classification.
+Pre-final year CS student specializing in low-latency systems and scalable architecture. Currently working as an SDE Intern at Nevaeh Technology, building core C++ modules for High-Frequency Trading (HFT) infrastructure. I build resilient, end-to-end systems — from ultra-fast trading backends to AI-powered intelligence tools — backed by a strong record in competitive programming and national hackathons.
+
+---
+
+### ◈ Experience
+
+**Software Development Engineer (SDE) Intern** @ *Nevaeh Technology* (Aug 2026 – Present)
+- Engineering and optimizing core C++ modules for High-Frequency Trading (HFT) infrastructure.
+- Focusing on ultra-low latency execution, memory optimization, and robust system-level performance.
 
 ---
 
