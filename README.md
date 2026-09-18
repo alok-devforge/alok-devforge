@@ -1,4 +1,4 @@
-# Hey 👋, I'm Alok Kumar
+ # Hey 👋, I'm Alok Kumar
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=8B949E&vCenter=true&repeat=true&width=500&height=25&lines=SDE+Intern+%40+Nevaeh+Technology;Systems+%26+C%2B%2B+Developer;Full+Stack+%26+AI+Native+Developer" alt="tagline" />
 
